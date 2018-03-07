@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="12" passed="12">
+<testng-results skipped="0" failed="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="70356" started-at="2018-02-26T00:19:22Z" finished-at="2018-02-26T00:20:33Z">
+  <suite name="Default suite" duration-ms="51289" started-at="2018-03-07T15:03:09Z" finished-at="2018-03-07T15:04:00Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="49588" started-at="2018-02-26T00:19:22Z" finished-at="2018-02-26T00:20:12Z">
+    <test name="Default test" duration-ms="51289" started-at="2018-03-07T15:03:09Z" finished-at="2018-03-07T15:04:00Z">
       <class name="executeTestCases.ExecuteTestCasesGetNewPage">
-        <test-method status="PASS" signature="setup()[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="setup" is-config="true" duration-ms="18061" started-at="2018-02-25T19:19:22Z" finished-at="2018-02-25T19:19:41Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="setup" is-config="true" duration-ms="20567" started-at="2018-03-07T10:03:09Z" finished-at="2018-03-07T10:03:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="3880" started-at="2018-02-25T19:19:44Z" data-provider="TestCasesSheet" finished-at="2018-02-25T19:19:48Z">
+        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="3900" started-at="2018-03-07T10:03:33Z" data-provider="TestCasesSheet" finished-at="2018-03-07T10:03:37Z">
           <params>
             <param index="0">
               <value>
@@ -52,7 +52,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNewPage -->
-        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="3149" started-at="2018-02-25T19:19:48Z" data-provider="TestCasesSheet" finished-at="2018-02-25T19:19:51Z">
+        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="2677" started-at="2018-03-07T10:03:37Z" data-provider="TestCasesSheet" finished-at="2018-03-07T10:03:39Z">
           <params>
             <param index="0">
               <value>
@@ -93,7 +93,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNewPage -->
-        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="2553" started-at="2018-02-25T19:19:51Z" data-provider="TestCasesSheet" finished-at="2018-02-25T19:19:53Z">
+        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="2206" started-at="2018-03-07T10:03:39Z" data-provider="TestCasesSheet" finished-at="2018-03-07T10:03:42Z">
           <params>
             <param index="0">
               <value>
@@ -134,7 +134,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNewPage -->
-        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="2271" started-at="2018-02-25T19:19:53Z" data-provider="TestCasesSheet" finished-at="2018-02-25T19:19:56Z">
+        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="2044" started-at="2018-03-07T10:03:42Z" data-provider="TestCasesSheet" finished-at="2018-03-07T10:03:44Z">
           <params>
             <param index="0">
               <value>
@@ -175,7 +175,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNewPage -->
-        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="2542" started-at="2018-02-25T19:19:56Z" data-provider="TestCasesSheet" finished-at="2018-02-25T19:19:58Z">
+        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="2564" started-at="2018-03-07T10:03:44Z" data-provider="TestCasesSheet" finished-at="2018-03-07T10:03:46Z">
           <params>
             <param index="0">
               <value>
@@ -216,7 +216,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNewPage -->
-        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="11767" started-at="2018-02-25T19:19:58Z" data-provider="TestCasesSheet" finished-at="2018-02-25T19:20:10Z">
+        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="11788" started-at="2018-03-07T10:03:46Z" data-provider="TestCasesSheet" finished-at="2018-03-07T10:03:58Z">
           <params>
             <param index="0">
               <value>
@@ -259,7 +259,7 @@ Please enter a valid email address;]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNewPage -->
-        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="1592" started-at="2018-02-25T19:20:10Z" data-provider="TestCasesSheet" finished-at="2018-02-25T19:20:11Z">
+        <test-method status="PASS" signature="testGetNewPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="testGetNewPage" duration-ms="1538" started-at="2018-03-07T10:03:58Z" data-provider="TestCasesSheet" finished-at="2018-03-07T10:04:00Z">
           <params>
             <param index="0">
               <value>
@@ -303,158 +303,11 @@ Please enter a valid email address;]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetNewPage -->
-        <test-method status="PASS" signature="closeBrower()[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="closeBrower" is-config="true" duration-ms="586" started-at="2018-02-25T19:20:11Z" finished-at="2018-02-25T19:20:12Z">
+        <test-method status="PASS" signature="closeBrower()[pri:0, instance:executeTestCases.ExecuteTestCasesGetNewPage@39aeed2f]" name="closeBrower" is-config="true" duration-ms="807" started-at="2018-03-07T10:04:00Z" finished-at="2018-03-07T10:04:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrower -->
       </class> <!-- executeTestCases.ExecuteTestCasesGetNewPage -->
-    </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="20553" started-at="2018-02-26T00:20:12Z" finished-at="2018-02-26T00:20:33Z">
-      <class name="executeTestCases.ExecuteTestCasesLoginPage">
-        <test-method status="PASS" signature="setup()[pri:0, instance:executeTestCases.ExecuteTestCasesLoginPage@5622fdf]" name="setup" is-config="true" duration-ms="9601" started-at="2018-02-25T19:20:12Z" finished-at="2018-02-25T19:20:22Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testPages(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesLoginPage@5622fdf]" name="testPages" duration-ms="3248" started-at="2018-02-25T19:20:22Z" data-provider="LoginPageTestCasesSheet" finished-at="2018-02-25T19:20:25Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[RegisterVerify]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[https://mpower.tvo.org/educators/#/signup/]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testPages -->
-        <test-method status="PASS" signature="testPages(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesLoginPage@5622fdf]" name="testPages" duration-ms="936" started-at="2018-02-25T19:20:25Z" data-provider="LoginPageTestCasesSheet" finished-at="2018-02-25T19:20:26Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ForgetPassWord]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[https://mpower.tvo.org/educators/#/lostpassword]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testPages -->
-        <test-method status="PASS" signature="testPages(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesLoginPage@5622fdf]" name="testPages" duration-ms="1423" started-at="2018-02-25T19:20:26Z" data-provider="LoginPageTestCasesSheet" finished-at="2018-02-25T19:20:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[LoginFail]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Dog@gmail.com]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[aaa]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[
-A valid password is required]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testPages -->
-        <test-method status="PASS" signature="testPages(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesLoginPage@5622fdf]" name="testPages" duration-ms="1074" started-at="2018-02-25T19:20:28Z" data-provider="LoginPageTestCasesSheet" finished-at="2018-02-25T19:20:29Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[LoginFail]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[CAT@gmail.com]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[
-Please provide a password
-]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testPages -->
-        <test-method status="PASS" signature="testPages(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:executeTestCases.ExecuteTestCasesLoginPage@5622fdf]" name="testPages" duration-ms="1541" started-at="2018-02-25T19:20:29Z" data-provider="LoginPageTestCasesSheet" finished-at="2018-02-25T19:20:30Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[LoginFail]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Please provide an email address;
-Please provide a password
-]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testPages -->
-        <test-method status="PASS" signature="closeBrower()[pri:0, instance:executeTestCases.ExecuteTestCasesLoginPage@5622fdf]" name="closeBrower" is-config="true" duration-ms="2516" started-at="2018-02-25T19:20:30Z" finished-at="2018-02-25T19:20:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeBrower -->
-      </class> <!-- executeTestCases.ExecuteTestCasesLoginPage -->
-    </test> <!-- Test2 -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

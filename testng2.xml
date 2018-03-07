@@ -6,4 +6,10 @@
       <class name="executeTestCases.ExecuteTestCasesGetNewPage"/>
     </classes>
   </test> <!-- Test -->
+  
+    <test thread-count="5" name="Test2">
+    <classes>
+      <class name="executeTestCases.ExecuteTestCasesLoginPage"/>
+    </classes>
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
